@@ -1,9 +1,9 @@
 /*
 * Copyright (C) 2009-2013 Ingmar Runge <ingmar@irsoft.de>
-* See the AUTHORS file for details.
+* Extended and fixed in 2026 by Lisko
 *
-* An ident server module for Windows ZNC.
-* http://code.google.com/p/znc-msvc/
+* An ident server module for ZNC.
+* https://github.com/KiNgMaR/znc/blob/msvc/win32/extra_modules/identserver.cpp
 *
 * This program is free software; you can redistribute it and/or modify it
 * under the terms of the GNU General Public License version 2 as published
